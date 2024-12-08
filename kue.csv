@@ -1,0 +1,34 @@
+id,nama,harga,stok,jenis
+1,Black Brownies Crumble,50000,0,Brownies
+2,Brownies Bakar,60000,2,Brownies
+3,Brownies Banana Cheese,55000,10,Brownies
+4,Brownies Blueberry,70000,5,Brownies
+5,Brownies Choco Marble,65000,8,Brownies
+6,Brownies Cream Cheese,75000,12,Brownies
+7,Brownies Greentea,60000,10,Brownies
+8,Brownies Kering,80000,7,Brownies
+9,Brownies Lemon Cheese,60000,0,Brownies
+10,Brownies Orange Cheese,60000,12,Brownies
+11,Brownies Original,55000,15,Brownies
+12,Brownies Pink Marble,65000,5,Brownies
+13,Brownies Sarikaya Pandan,70000,10,Brownies
+14,Brownies Strawberry,65000,9,Brownies
+15,Brownies Tiramisu,75000,6,Brownies
+16,Brownies Tiramisu Marble,80000,5,Brownies
+17,Brownies Vanilla Marble,90000,5,Brownies
+18,Beef Pastry,25000,20,Pastry
+19,Cheese Roll,20000,15,Pastry
+20,Cheese Stick,15000,29,Pastry
+21,Chicken Pastry,30000,10,Pastry
+22,Pisang Bolen Cokelat,25000,12,Pastry
+23,Pisang Bolen Keju,25000,10,Pastry
+24,Sweet Stick,15000,25,Pastry
+25,Lapis Dira,60000,10,Premium Product
+26,Lapis Legit Original,65000,15,Premium Product
+27,Lapis Legit Prune,70000,12,Premium Product
+28,Original Ganache Choco,75000,8,Premium Product
+29,Signature Black Noir,80000,5,Premium Product
+30,Signature Cheese,70000,10,Premium Product
+31,Signature Choco,75000,6,Premium Product
+32,Tiramisu Cake,85000,4,Premium Product
+33,Bolu Pandan,30000,20,Bolu

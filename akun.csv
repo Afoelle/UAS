@@ -1,0 +1,15 @@
+nama,password,role,saldo,voucher,akun
+Raffy,123,vip,1000099820812.0,"['diskon 5', 'diskon 5', 'diskon 5']",buka
+Diras,123,biasa,0,"['diskon 5', 'diskon 10']",buka
+Rinda,123,biasa,0,"['diskon 5', 'diskon 10']",buka
+Dira,123,vip,937175.0,['diskon 5'],kunci
+Rafi,123,biasa,0,"['diskon 5', 'diskon 10']",buka
+Indra,123,biasa,0,"['diskon 5', 'diskon 10']",buka
+Agus,123,biasa,0,"['diskon 5', 'diskon 10']",buka
+Budi,123,biasa,1000000.0,"['diskon 5', 'diskon 10']",buka
+Hendra,123,biasa,0,"['diskon 5', 'diskon 10']",buka
+Alex,123,biasa,1000000.0,"['diskon 5', 'diskon 10', 'diskon 5', 'diskon 10', 'diskon 5', 'diskon 10']",buka
+Udin,123,biasa,770500.0,"['diskon 5', 'diskon 10', 'diskon 10', 'diskon 10', 'diskon 10', 'diskon 10', 'diskon 10']",buka
+Max,123,biasa,0,"['diskon 5', 'diskon 10']",buka
+Lunar,123,vip,811875.0,"['diskon 5', 'diskon 5', 'diskon 10', 'diskon 10', 'diskon 10']",buka
+Onix,1,biasa,0,"['diskon 5', 'diskon 10']",buka
